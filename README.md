@@ -14,7 +14,7 @@ The bot replies to live chat messages in a Live Stream (obviously :p). It curren
 5. Then Copy & Paste the following commands in your terminal:
 
 ```
-git clone https://github.com/gulraiznoorbari/YouTube_Live_Stream_Chat_Bot.git
+git clone https://github.com/victonetech/YouTube_Live_Stream_Chat_Bot.git
 cd YouTube_Live_Stream_Chat_Bot
 python bot.py
 ```
@@ -31,11 +31,11 @@ Here, the Live Stream Id is **`qDWw4sAD3zY`**
 
 You can get in touch with me on my LinkedIn Profile:
 
-#### Gulraiz Noor Bari
+#### victone
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-gulraiznoorbari-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/gulraiznoorbari)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-victone-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/victone)
 <br />
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-gulraiznoorbari-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/gulraiznoorbari)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-victonetech-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/victonetech)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
